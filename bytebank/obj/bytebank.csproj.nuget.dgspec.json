@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\alura\\c#\\bytebank\\bytebank\\bytebank.csproj": {}
+    "D:\\alura\\c#\\bytebank-oo\\bytebank\\bytebank.csproj": {}
   },
   "projects": {
-    "D:\\alura\\c#\\bytebank\\bytebank\\bytebank.csproj": {
+    "D:\\alura\\c#\\bytebank-oo\\bytebank\\bytebank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\alura\\c#\\bytebank\\bytebank\\bytebank.csproj",
+        "projectUniqueName": "D:\\alura\\c#\\bytebank-oo\\bytebank\\bytebank.csproj",
         "projectName": "bytebank",
-        "projectPath": "D:\\alura\\c#\\bytebank\\bytebank\\bytebank.csproj",
+        "projectPath": "D:\\alura\\c#\\bytebank-oo\\bytebank\\bytebank.csproj",
         "packagesPath": "C:\\Users\\Raquel-PC\\.nuget\\packages\\",
-        "outputPath": "D:\\alura\\c#\\bytebank\\bytebank\\obj\\",
+        "outputPath": "D:\\alura\\c#\\bytebank-oo\\bytebank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raquel-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
