@@ -1,1 +1,4 @@
-﻿
+﻿Contrataram você para desenvolver um sistema de gerenciamento de produtos destinado ao estoque do Supermercado Menor Preço.
+O cliente informou a necessidade de cadastrar informações sobre o nome, fabricante, código de barras, valor unitário, valor de compra e quantidade em estoque de determinado produto.
+
+Este é um exercício opcional e te desafiamos a criar uma classe com base na descrição acima. Lembre-se de extrair o máximo de informações que achar necessárias para compor sua classe.
